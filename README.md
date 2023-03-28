@@ -18,9 +18,9 @@ I'm a java spring boot api developer and animator with too many side projects. M
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
 <img align="left" alt="Spring" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" alt="ChatGPT" width="30px" style="padding-right:10px;" src="https://seeklogo.com/images/C/chatgpt-logo-02AFA704B5-seeklogo.com.png" />
-<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+<img align="left" alt="Jenkins" width="30px" style="padding-right:10px;" src="https://wiki.jenkins-ci.org/JENKINS/attachments/2916393/57409617.png" />
 <img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://db.cs.uni-tuebingen.de/teaching/ws2223/sql-is-a-programming-language/logo.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
